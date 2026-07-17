@@ -44,7 +44,5 @@ A responsive website for **Editkaro.in**, a social media marketing and video edi
 3. **Deploy → New deployment → Web app** (Execute as: Me, Access: Anyone).
 4. Copy the deployment URL and paste it into `SCRIPT_URL` at the top of `script.js`.
 
-## Deployment
-
-Hosted on GitHub Pages from the `main` branch (Settings → Pages → Deploy from a branch).
+ 
  
