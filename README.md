@@ -2,7 +2,7 @@
 
 A responsive website for **Editkaro.in**, a social media marketing and video editing agency — built with vanilla HTML, CSS, and JavaScript.
 
-🔗 **Live site:** https://YOUR_USERNAME.github.io/editkaro-website/
+🔗 **Live site:**  http://127.0.0.1:5500/index.html#top
 
 ## Features
 
