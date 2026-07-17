@@ -4,6 +4,28 @@ A responsive website for **Editkaro.in**, a social media marketing and video edi
 
 🔗 **Live site:**  http://127.0.0.1:5500/index.html#top
 
+# Structure 
+<p align="center">
+  <img src="photos/pic.png" width="500">
+</p>
+
+# Outcomes
+
+## Hover-Based Detection
+
+<p align="center">
+  <img src="photos/pic1.png" width="45%">
+  <img src="photos/pic2.png" width="45%">
+  <img src="photos/pic3.png" width="90%">
+</p>
+
+## After-Click Analysis
+
+<p align="center">
+  <img src="photos/pic4.png" width="45%">
+  <img src="photos/pic5.png" width="45%">
+</p>
+
 ## Features
 
 - **Home** — Hero intro, scrolling category marquee, stats, and an email subscribe form
